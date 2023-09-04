@@ -1,2 +1,2 @@
 # SQL-PROJECTS
-this repo will contains sample SQL projects
+This repo will contains sample SQL projects
